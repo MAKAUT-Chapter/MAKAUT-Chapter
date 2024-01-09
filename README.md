@@ -1,4 +1,4 @@
-Title: Empowering Cybersecurity Enthusiasts: The MAKAUT Student Chapter of NULL Community
+ The MAKAUT Student Chapter of NULL Community
 
 Introduction:
 The MAKAUT (Maulana Abul Kalam Azad University of Technology) Student Chapter of NULL Community is a vibrant and dynamic group of cybersecurity enthusiasts dedicated to fostering a culture of ethical hacking, cybersecurity awareness, and skill development within the university community. NULL Community, a global non-profit organization, focuses on providing a platform for cybersecurity professionals and enthusiasts to share knowledge, collaborate, and advance their skills.
